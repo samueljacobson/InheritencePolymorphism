@@ -20,7 +20,7 @@ namespace InheritencePolymorphism
 
         //Properties
         public int Seats { get; }
-        public int CarryCapacity { get; }
+        public int CarryingCapacity { get; }
         public string Color { get; set; }
         public double DistanceTraveled { get; set; }
 
