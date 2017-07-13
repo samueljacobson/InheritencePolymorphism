@@ -15,7 +15,7 @@ namespace InheritencePolymorphism
         protected double movementSpeed;
         protected double distanceTraveled;
 
-        private float gearRatio;
+        private float gearRatio;    //no access outside of Vehicle class
         private float engineSize;
 
         //Properties
